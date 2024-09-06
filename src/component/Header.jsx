@@ -44,7 +44,7 @@ const Header = ({ isSunVisible }) => {
           isSunVisible ? "text-black" : "text-white"
         }`}
       >
-        <Link to="/">
+        <Link to="/Harmony2">
           <motion.div
             whileHover={{ scale: [null, 1.5, 1.4] }}
             transition={{ duration: 0.3 }}
